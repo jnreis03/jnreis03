@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- FullStack Developer<br>- Bachelor in Computer Science from UNIFAL-MG<br>- Software Developer at @</p>
+<p align="left">- FullStack Developer<br>- Bachelor in Computer Science from UNIFAL-MG<br>- Software Developer at @wtgo</p>
 
 ###
 

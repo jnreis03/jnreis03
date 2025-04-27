@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- FullStack Developer<br>- Bachelor in Computer Science from UNIFAL-MG<br>- Software Developer at <a href="https://www.linkedin.com/company/wtgo/" target="_blank">@wtgo</a></p>
+<p align="left">- FullStack Developer<br>- Bachelor in Computer Science from UNIFAL-MG<br>- Software Developer at <a href="https://www.linkedin.com/company/salon-line-brasil/" target="_blank">@salonlinebrasil</a></p>
 
 ###
 

@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- FullStack Developer<br>- Bachelor in Computer Science from UNIFAL-MG<br>- 
+<p align="left">- FullStack Developer<br>- Bachelor in Computer Science from <a href="https://www.unifal-mg.edu.br/portal/" target="_blank" >UNIFAL-MG</a><br>- 
 Machine Learning Developer at <a href="https://www.linkedin.com/company/salon-line-brasil/" target="_blank">@salonlinebrasil</a></p>
 
 ###
